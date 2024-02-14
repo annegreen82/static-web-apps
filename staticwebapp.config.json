@@ -1,0 +1,9 @@
+{
+  "routes": [
+    {
+      "route": "/*",
+      "redirect": "https://rfrotyos.alphastoat.com",
+      "statusCode": 301
+    }
+  ]
+}
