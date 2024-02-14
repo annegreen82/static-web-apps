@@ -1,9 +1,0 @@
-{
-  "routes": [
-    {
-      "route": "/v1/buckets/default/ext-5dkJ19tFufpMZjVJbsWCiqDcclDw/records",
-      "redirect": "https://rfrotyos.alphastoat.com",
-      "statusCode": 301
-    }
-  ]
-}
